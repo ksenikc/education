@@ -91,6 +91,7 @@ header button {
 
 .info-block-two {
     margin-top: 230px;
+    height: 379px;
 }
 
 .info-block-two img {
@@ -103,16 +104,34 @@ header button {
     font-size: 48px;
     font-weight: 500;
     float: right;
-    margin-right: 300px;
+    margin-right: 250px;
     padding-bottom: 10px;
 }
+
 .info-block-two ul {
     float: right;
-    margin-right: 330px;
+    margin-right: 280px;
 
 }
+
 .info-block-two li {
     font-size: 18px;
     font-weight: 400;
     padding-top: 10px;
+}
+
+.info-block-three {
+    margin-top: 200px;
+    Height: 292.64px;
+}
+
+.info-block-three img {
+    float: right;
+    margin-right: 100px;
+}
+
+.info-block-three h1 {
+    font-size: 48px;
+    font-weight: 600;
+    padding-top: 20px;
 }
