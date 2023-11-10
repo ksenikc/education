@@ -194,6 +194,7 @@ header button {
     margin: 63px 138px 0;
     border: none;
     cursor: pointer;
+    z-index: 1;
 }
 
 .img{
